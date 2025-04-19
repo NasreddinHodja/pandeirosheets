@@ -1,6 +1,6 @@
 # Levadas
 
-## 1 - Samba simples
+## 1 - Partido alto simples
 
-<img src="./images/partido_1.png" width="600" />
+<img src="./images/partido_1.png" />
 
