@@ -16,6 +16,11 @@
 
 <img src="./images/partido_1_variacao_3.png" />
 
+## Xote
+<img src="./images/xote.png" width="600" />
+
+### Variação 1
+<img src="./images/xote_variacao_1.png" width="600" />
 
 ## Ijexá
 
