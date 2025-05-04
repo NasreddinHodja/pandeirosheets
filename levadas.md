@@ -1,5 +1,8 @@
 # Levadas
 
+## Samba-choro
+<img src="./images/samba_choro.png" width="600" />
+
 ## Partido preguiçoso
 
 <img src="./images/partido_1.png" />
@@ -16,11 +19,17 @@
 
 <img src="./images/partido_1_variacao_3.png" />
 
+## Baião
+<img src="./images/baiao.png" width="600" />
+
 ## Xote
 <img src="./images/xote.png" width="600" />
 
 ### Variação 1
 <img src="./images/xote_variacao_1.png" width="600" />
+
+## Forró
+<img src="./images/forro.png" width="600" />
 
 ## Ijexá
 
