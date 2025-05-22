@@ -11,3 +11,4 @@
 | --------------------------------------------------------------------------- | -------------- |
 | <img src="./images/glossary/acento.png" width="50px" height="60" />         | Acento         |
 | <img src="./images/glossary/toque_bem_leve.png" width="50px" height="60" /> | Toque bem leve |
+| <img src="./images/glossary/rulo.png" width="50px" height="60" />           | Rulo           |
