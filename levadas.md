@@ -30,6 +30,22 @@
 
 <img src="./images/samba_sotaque_repique_de_anel.png" width="700" />
 
+### Virada 1
+
+<img src="./images/samba_virada_1.png" width="700" />
+
+### Virada 2
+
+<img src="./images/samba_virada_2.png" width="700" />
+
+### Virada 3
+
+<img src="./images/samba_virada_3.png" width="700" />
+
+### Virada 4
+
+<img src="./images/samba_virada_4.png" />
+
 ## Partido alto
 
 ### Partido Preguiçoso
@@ -47,6 +63,14 @@
 #### Variação 3
 
 <img src="./images/partido_1_variacao_3.png" />
+
+### Virada 1
+
+<img src="./images/partido_virada_1.png" />
+
+### Virada 2
+
+<img src="./images/partido_virada_2.png" />
 
 ## Baião
 
