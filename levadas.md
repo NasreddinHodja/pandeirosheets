@@ -132,6 +132,23 @@
 
 <img src="./images/funk_variacao_3.png" width="700" />
 
+### Invertida
+
+<img src="./images/funk_invertida.png" width="700" />
+
+## Frevo
+**OBS.: semicolcheias feitas usando o super rulo 3000 de Netinho Albuquerque**
+
+<img src="./images/frevo.png" width="700" />
+
+### Suzanex
+
+<img src="./images/frevo_suzanex.png" width="700" />
+
+## Polca
+
+<img src="./images/polca.png" width="700" />
+
 # Viagem
 
 ## Funk anos 90 - Estrada da posse
