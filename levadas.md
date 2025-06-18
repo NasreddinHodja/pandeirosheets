@@ -96,6 +96,14 @@ Mesma mecânica do forró.
 
 <img src="./images/forro.png" width="600" />
 
+## Coco
+
+<img src="./images/coco.png" width="600" />
+
+### Variação 1
+
+<img src="./images/coco_variacao_1.png" width="600" />
+
 ## Arrasta-pé
 
 <img src="./images/arrastape.png" width="600" />
