@@ -72,6 +72,10 @@
 
 <img src="./images/partido_virada_2.png" />
 
+## Samba de roda
+
+Mesma mecânica do forró.
+
 ## Baião
 
 **OBS.: notas fantasma bem leves; contraste maior entre acentos e notas fantasma**
@@ -119,6 +123,7 @@
 ## Funk
 
 <img src="./images/funk.png" width="700" />
+<img src="./images/funk_invertida.png" width="700" />
 
 ### Variação 1
 
@@ -131,10 +136,6 @@
 ### Variação 3
 
 <img src="./images/funk_variacao_3.png" width="700" />
-
-### Invertida
-
-<img src="./images/funk_invertida.png" width="700" />
 
 ## Frevo
 **OBS.: semicolcheias feitas usando o super rulo 3000 de Netinho Albuquerque**
@@ -149,7 +150,21 @@
 
 <img src="./images/polca.png" width="700" />
 
-# Viagem
+# Aventuras
+
+## Toques de origem Banta
+
+### Padrão 1
+<img src="./images/banta_1.png" width="700" />
+<img src="./images/banta_1_inv.png" width="700" />
+
+### Padrão 2
+<img src="./images/banta_2.png" width="700" />
+<img src="./images/banta_2_inv.png" width="700" />
+
+### Padrão 3
+<img src="./images/banta_3.png" width="700" />
+<img src="./images/banta_3_inv.png" width="700" />
 
 ## Funk anos 90 - Estrada da posse
 
