@@ -100,6 +100,22 @@ Mesma mecânica do forró.
 
 <img src="./images/ijexa_1.png" width="600" />
 
+### Variação 1
+
+<img src="./images/ijexa_variacao_1.png" width="600" />
+
+### Variação 2
+
+<img src="./images/ijexa_variacao_2.png" width="600" />
+
+### Variação 3
+
+<img src="./images/ijexa_variacao_3.png" width="600" />
+
+### Variação 4
+
+<img src="./images/ijexa_variacao_4.png" width="600" />
+
 ### Viradinha 1
 
 <img src="./images/ijexa_viradinha_1.png" />
