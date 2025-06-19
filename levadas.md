@@ -187,16 +187,37 @@ Mesma mecânica do forró.
 ## Toques de origem Banta
 
 ### Padrão 1
+
 <img src="./images/banta_1.png" width="700" />
 <img src="./images/banta_1_inv.png" width="700" />
 
 ### Padrão 2
+
 <img src="./images/banta_2.png" width="700" />
 <img src="./images/banta_2_inv.png" width="700" />
 
 ### Padrão 3
+
 <img src="./images/banta_3.png" width="700" />
 <img src="./images/banta_3_inv.png" width="700" />
+
+## Agueré
+
+[Agueré de Oxóssi](https://www.youtube.com/watch?v=6FVgtUOLC_U)
+
+<img src="./images/aguere.png" width="700" />
+
+## Vamunha
+
+[Avamunha Para Ogum (Nação Ketu)](https://www.youtube.com/watch?v=fGevK2TNlPA)
+
+<img src="./images/vamunha.png" width="700" />
+
+## Opanije
+
+[Opanije for Omolu](https://www.youtube.com/watch?v=ObFXE0yQoOE)
+
+<img src="./images/opanije.png" width="700" />
 
 ## Funk anos 90 - Estrada da posse
 
